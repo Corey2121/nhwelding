@@ -1,0 +1,2 @@
+Total 403 GET Request Log Entries: 630
+Total 403 POST Request Log Entries: 173

@@ -1,0 +1,17 @@
+/*
+	Coin Slider jQuery plugin CSS styles
+	http://workshop.rs/projects/coin-slider
+*/
+
+/* Slider */
+#slider { padding:5px 0 0 0;}
+#slideshow {  }
+.slider-item { width: 960px !important;  }
+.slider_content_inner img { border: none; }
+.controls-center { margin-left: auto; margin-right: auto; }
+#slider_controls { padding:15px 0 0 0; position: relative; margin:0 auto; z-index: 1000;}
+#slider_controls ul {  margin:0 auto; padding:0 0 0 200px; }
+#slider_controls ul li { margin:0 auto; display: block; list-style: none; padding:0 10px; }
+#slider_controls ul li a { background:#353535; display: block; float: left; border:1px solid #484848; padding:5px; margin:2px 10px; outline: none; }
+#slider_controls ul li a:focus { outline: none; }
+#slider_controls ul li a:hover, #slider_controls ul li a.activeSlide { background:#000; border:1px solid #484848; }
